@@ -1,2 +1,2 @@
 # Web-Project-
-this repo contains my project code in frontend
+This repo contains my project code in frontend
